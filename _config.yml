@@ -18,7 +18,7 @@ opengraph:
   image: # override site.logo (store in src/_assets/images)
 
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/jekyll-business-sense" # the subpath of your site, e.g. /blog
 thanks: "/thanks" # after form submitted, send visitor here
 github: burden/jekyll-business-sense
 
