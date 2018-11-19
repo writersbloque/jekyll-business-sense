@@ -6,7 +6,7 @@ title: Jekyll Business Sense
 # Try to get up to 230 characters
 # Note that most search engines will truncate to 160 characters
 description: >-
-  Proudly serving the community since 2018
+  We are a lawn service that is proudly serving the Sacramento area. 
 
 # used in LocalBusiness schema, and Open Graph
 # store in src/_assets/images
@@ -17,7 +17,7 @@ opengraph:
   fb-user: jekyll-business-sense
   image: # override site.logo (store in src/_assets/images)
 
-url: "https://jekyll-business-sense.burden.cc" # the base hostname & protocol for your site, e.g. http://example.com
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "" # the subpath of your site, e.g. /blog
 thanks: "/thanks" # after form submitted, send visitor here
 github: burden/jekyll-business-sense
